@@ -100,7 +100,7 @@ print("For population = 70000,we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
 
 
 ## Result:
