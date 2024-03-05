@@ -70,7 +70,6 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-
 ![ml1](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/e5c5fcdf-d0b1-418b-8d69-4c892b099b05)
 ![ml2](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/475640c7-9efb-4ca2-882a-aa52906026bd)
 ![ml3](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/c81d7ffe-da92-491d-912d-9768469b2f81)
