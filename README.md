@@ -71,7 +71,11 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-![linear regression using gradient descent](https://github.com/joeljohnjobinse/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138955488/765eb6e3-204a-46d0-9ec0-3aa546eb93d3)
+![ml1](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/e5c5fcdf-d0b1-418b-8d69-4c892b099b05)
+![ml2](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/475640c7-9efb-4ca2-882a-aa52906026bd)
+![ml3](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/c81d7ffe-da92-491d-912d-9768469b2f81)
+![ml4](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/08015703-2b5b-423a-87c5-829f74f66c95)
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
