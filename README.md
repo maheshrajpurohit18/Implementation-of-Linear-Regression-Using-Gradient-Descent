@@ -8,17 +8,17 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Startv the program.
+Step 1.Start the program.
   
-  2.Import numpy as np.
+Step 2.Import numpy as np.
   
-  3.Give the header to the data.
+Step 3.Give the header to the data.
   
-  4.Find the profit of population.
+Step 4.Find the profit of population.
   
-  5.Plot the required graph for both for Gradient Descent Graph and Prediction Graph.
+Step 5.Plot the required graph for both for Gradient Descent Graph and Prediction Graph.
   
-  6.End the program.
+Step 6.End the program.
   
 
 ## Program:
